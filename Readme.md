@@ -1,4 +1,4 @@
-👨‍💻 Projeto de Encriptador de Texto 👨‍
+👨‍💻 Projeto de Encriptador de Texto 👨‍💻
 
 🏆 OracleONE_Alura 🏆 
 
