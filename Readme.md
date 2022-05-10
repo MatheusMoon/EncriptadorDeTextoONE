@@ -1,5 +1,5 @@
-Projeto de Encriptador de Texto
+👨‍💻 Projeto de Encriptador de Texto 👨‍
 
-OracleONE-Alura, 
+🏆 OracleONE_Alura 🏆 
 
-By Matheus!
+By Matheus Cordeiro! 🤵
